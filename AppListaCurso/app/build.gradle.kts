@@ -4,11 +4,11 @@ plugins {
 
 android {
     namespace = "devandroid.anderson.applistacurso"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "devandroid.anderson.applistacurso"
-        minSdk = 26
+        minSdk = 28
         targetSdk = 33
         versionCode = 1
         versionName = "1.0"
